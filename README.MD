@@ -16,6 +16,12 @@ Computation of bifurcation fractals for 2D symplectic mappings
   <img width="576" height="256" src="https://github.com/i-a-morozov/fractal/blob/main/pics/frequency.png">
 </p>
 
+- Frequency & mode locking (quadratic mapping)
+
+<p align="center">
+  <img width="576" height="256" src="https://github.com/i-a-morozov/fractal/blob/main/pics/tongues.png">
+</p>
+
 - FMA (quadratic mapping)
 
 <p align="center">
