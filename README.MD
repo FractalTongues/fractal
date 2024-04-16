@@ -51,4 +51,10 @@ two symmetry lines, $p=q$ and $p=1/2(w q + q^2)$  cover full 2D plane. Fractals 
   <img width="576" height="256" src="https://github.com/i-a-morozov/fractal/blob/main/pics/gali.png">
 </p>
 
+- Phase space vs frequency
+
+<p align="center">
+  [phase space](https://github.com/i-a-morozov/fractal/blob/main/pics/fractal.mp4)
+</p>
+
 
